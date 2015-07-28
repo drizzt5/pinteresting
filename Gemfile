@@ -14,6 +14,9 @@ gem 'paperclip', '~> 4.2'
 gem 'bootstrap-sass'
 gem 'aws-sdk', '< 2.0'
 gem 'masonry-rails'
+gem 'will_paginate', '~> 3.0.5'
+gem 'will_paginate-bootstrap'
+
 
 group :development, :test do
   gem 'byebug'
